@@ -16,5 +16,10 @@ namespace MyFormsRepoProject
         {
             InitializeComponent();
         }
+
+        private void btnClickMe_Click(object sender, EventArgs e)
+        {
+            lblMessage.Text = "Hello GitHub Repo";
+        }
     }
 }
