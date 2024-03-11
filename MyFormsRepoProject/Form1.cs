@@ -19,6 +19,7 @@ namespace MyFormsRepoProject
 
         private void btnClickMe_Click(object sender, EventArgs e)
         {
+            // this completes feature one
             lblMessage.Text = "Hello GitHub Repo";
         }
     }
