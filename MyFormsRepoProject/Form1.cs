@@ -21,7 +21,9 @@ namespace MyFormsRepoProject
         {
             // this completes feature one
             // more documentation
-            // Isaac was here
+
+            // Isaac was here and  loves GitHub
+
             lblMessage.Text = "Hello GitHub Repo";
         }
     }
